@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.48a74fdf.css","mappings":"AAAA,MACI,kBACJ,CACA,EACI,sBAEJ","sources":["styles/App.css"],"sourcesContent":["#root{\n    background: #B5B69D;\n}\n*{\n    scroll-behavior: smooth;\n\n}"],"names":[],"sourceRoot":""}

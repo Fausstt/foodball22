@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fudbool/static/css/main.62000642.css",
-    "main.js": "/fudbool/static/js/main.ccb8dc8a.js",
+    "main.css": "/fudbool/static/css/main.48a74fdf.css",
+    "main.js": "/fudbool/static/js/main.609eca80.js",
     "index.html": "/fudbool/index.html",
-    "main.62000642.css.map": "/fudbool/static/css/main.62000642.css.map",
-    "main.ccb8dc8a.js.map": "/fudbool/static/js/main.ccb8dc8a.js.map"
+    "main.48a74fdf.css.map": "/fudbool/static/css/main.48a74fdf.css.map",
+    "main.609eca80.js.map": "/fudbool/static/js/main.609eca80.js.map"
   },
   "entrypoints": [
-    "static/css/main.62000642.css",
-    "static/js/main.ccb8dc8a.js"
+    "static/css/main.48a74fdf.css",
+    "static/js/main.609eca80.js"
   ]
 }
