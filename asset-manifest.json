@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fudbool/static/css/main.62000642.css",
+    "main.js": "/fudbool/static/js/main.70e88e88.js",
+    "index.html": "/fudbool/index.html",
+    "main.62000642.css.map": "/fudbool/static/css/main.62000642.css.map",
+    "main.70e88e88.js.map": "/fudbool/static/js/main.70e88e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62000642.css",
+    "static/js/main.70e88e88.js"
+  ]
+}
