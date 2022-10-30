@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fudbool/static/css/main.48a74fdf.css",
-    "main.js": "/fudbool/static/js/main.609eca80.js",
-    "index.html": "/fudbool/index.html",
-    "main.48a74fdf.css.map": "/fudbool/static/css/main.48a74fdf.css.map",
-    "main.609eca80.js.map": "/fudbool/static/js/main.609eca80.js.map"
+    "main.css": "/foodball22/static/css/main.48a74fdf.css",
+    "main.js": "/foodball22/static/js/main.dcf26737.js",
+    "index.html": "/foodball22/index.html",
+    "main.48a74fdf.css.map": "/foodball22/static/css/main.48a74fdf.css.map",
+    "main.dcf26737.js.map": "/foodball22/static/js/main.dcf26737.js.map"
   },
   "entrypoints": [
     "static/css/main.48a74fdf.css",
-    "static/js/main.609eca80.js"
+    "static/js/main.dcf26737.js"
   ]
 }
