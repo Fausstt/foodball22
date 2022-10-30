@@ -27,6 +27,9 @@ const theme = createTheme({
             contrastText: "#fff",
         },
     },
+    typography: {
+        fontFamily: ["Oswald", "sans-serif"].join(","),
+    },
 });
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
