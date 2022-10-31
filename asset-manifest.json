@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/foodball22/static/css/main.48a74fdf.css",
-    "main.js": "/foodball22/static/js/main.dcf26737.js",
+    "main.js": "/foodball22/static/js/main.f924cd29.js",
     "index.html": "/foodball22/index.html",
     "main.48a74fdf.css.map": "/foodball22/static/css/main.48a74fdf.css.map",
-    "main.dcf26737.js.map": "/foodball22/static/js/main.dcf26737.js.map"
+    "main.f924cd29.js.map": "/foodball22/static/js/main.f924cd29.js.map"
   },
   "entrypoints": [
     "static/css/main.48a74fdf.css",
-    "static/js/main.dcf26737.js"
+    "static/js/main.f924cd29.js"
   ]
 }
